@@ -3,3 +3,6 @@ data/*
 data_ext/
 .idea/
 data_processed.csv
+caches.pkl
+models/*
+.ipynb_checkpoints/*
