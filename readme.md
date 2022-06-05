@@ -13,3 +13,5 @@
 **Стек технологий**:
 
 Сравнение Catboost, Prophet, LightAutoML, NNProphetDash для создания веб интерфейса Openstreetmap для создание density maps на картахDash + Plotly для веб-интерфейса и визуализации. Используется OpenStreetMap для отрисовки на тайловых картах.SHAP для визуализации влияния различных параметров на предсказания
+
+![](res_graphic.png)
