@@ -18,6 +18,7 @@
 
 [Скринкаст](https://drive.google.com/file/d/16UXhCngY41ClzcZ7VOT71oielSfhZA4g/view?usp=drivesdk)
 [Презентация](https://drive.google.com/file/d/12H6n-dBNxvTSgLUzKINDdMoRp8snCS-B/view?usp=sharing)
+[Ссылка на демо](http://dyn.pearx.net:8050/)
 
 *Ниже представлен почасовой график наших предсказаний на май 2022 года и реальные значения за этот же период*
 
