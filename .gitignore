@@ -7,3 +7,4 @@ caches.pkl
 models/*
 .ipynb_checkpoints/*
 *.pyc
+.DS_Store
