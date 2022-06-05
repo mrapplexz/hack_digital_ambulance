@@ -39,5 +39,5 @@ conda activate hackathons
 Запустите и наслаждайтесь
 ```
 cd web
-./start.sh
+gunicorn -c config.py app:server
 ```
