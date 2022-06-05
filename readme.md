@@ -16,6 +16,8 @@
 
 Сравнение Catboost, Prophet, LightAutoML, NNProphet. Dash для создания веб интерфейса Openstreetmap для создание density maps на картах. Dash + Plotly для веб-интерфейса и визуализации. Используется OpenStreetMap для отрисовки на тайловых картах. SHAP для визуализации влияния различных параметров на предсказания.
 
+[Скринкаст](https://drive.google.com/file/d/16UXhCngY41ClzcZ7VOT71oielSfhZA4g/view?usp=drivesdk)
+[Презентация](https://drive.google.com/file/d/12H6n-dBNxvTSgLUzKINDdMoRp8snCS-B/view?usp=sharing)
 
 *Ниже представлен почасовой график наших предсказаний на май 2022 года и реальные значения за этот же период*
 
